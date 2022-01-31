@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to FFT Generator
 
-You can use the [editor on GitHub](https://github.com/Konfersi-Indonesia/Konfersi-FFT-Generator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a simple Fast Fourier Transform using Gaussian and sinusoidal wave data. Version 1.5 uses an interactive graph from Matplotlib and uses Navigation Toolbars. The plotting button is divided into plot sinewave, calculate FFT, and plot spectrogram.
 
 ### Markdown
 
